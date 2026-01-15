@@ -53,7 +53,7 @@ LogSentinel is an advanced, cross-platform log analysis tool specifically design
 
 ```bash
 # Clone the repository
-git clone https://github.com/kanwarjitesingh/logsentinel.git
+git clone https://github.com/kanwarjitensingh/logsentinel.git
 cd logsentinel
 
 # Create and activate virtual environment
@@ -75,7 +75,7 @@ chmod +x logsentinel.py
 
 ```cmd
 # Clone or download the repository
-git clone https://github.com/kanwarjitesingh/logsentinel.git
+git clone https://github.com/kanwarjitensingh/logsentinel.git
 cd logsentinel
 
 # Run the automated setup
